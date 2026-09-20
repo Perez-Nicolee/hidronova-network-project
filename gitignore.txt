@@ -1,4 +1,0 @@
-/.atl
-opencode.json
-/.agent
-/.agents
